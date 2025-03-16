@@ -468,7 +468,7 @@ header .navbar ul li a:hover {
   background: linear-gradient(to bottom, #36d4e6, #9ee5f0);
 }
 .skills h2 {
-  color: #fff;
+  color: rgb(239, 187, 124);
 }
 .skills .heading span {
   color: rgb(255, 230, 0);
@@ -658,7 +658,7 @@ header .navbar ul li a:hover {
     background: linear-gradient(to bottom, #000031, #00002c);
   }
   .work h2 {
-    color: #fff;
+    color: rgb(239, 187, 124);
     padding: 1rem;
   }
   .work .heading span {
