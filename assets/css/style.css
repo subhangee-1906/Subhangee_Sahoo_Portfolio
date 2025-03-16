@@ -81,12 +81,12 @@ section {
 }
 .heading {
   font-size: 3.5rem;
-  color: rgb(32, 32, 32);
+  color: white;
   font-weight: 800;
   text-align: center;
 }
 .heading span {
-  color: rgb(115, 3, 167);
+  color: rgb(255, 230, 0);
 }
 header .logo {
   font-size: 1.9rem;
