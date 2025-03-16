@@ -492,7 +492,7 @@ header .navbar ul li a:hover {
   margin-bottom: 15px;
   padding: 10px;
   border-radius: 1rem;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 10px rgb(68, 198, 154);
   background: rgb(162, 240, 214);
   transition: 0.2s;
 }
