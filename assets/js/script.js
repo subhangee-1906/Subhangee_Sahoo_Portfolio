@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Nikhil Gupta";
+            document.title = "Portfolio | Subhangee Sahoo";
             $("#favicon").attr("href", "assets/images/.png");
         }
         else {
